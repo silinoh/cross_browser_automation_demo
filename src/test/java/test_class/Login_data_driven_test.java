@@ -7,7 +7,7 @@ import base_class.Base_class;
 import page_object.Login_page_object;
 import utils.Excel_utils;
 
-public class Login_data_driven extends Base_class {
+public class Login_data_driven_test extends Base_class {
 	
 	@Test
 	public void login_validation()
