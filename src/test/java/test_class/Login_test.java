@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import base_class.Base_class;
 import page_object.Login_page_object;
 
-public class Login_test extends Base_class {
+public class Login_Test extends Base_class {
 	
 	@Test(priority = 1)
 	public void valid_login()
